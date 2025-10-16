@@ -17,10 +17,10 @@ Step 3.Install dependencies:npm install
 Step 4.Start the application locally:npm run dev
 
 This will install all dependencies listed in package.json:
-react
-react-dom
-tailwindcss
-lucide-react
+react,
+react-dom,
+tailwindcss,
+lucide-react and
 other required packages
 
 Gameplay Instructions
@@ -35,3 +35,4 @@ Components: Board, Tile, ScoreBoard, Controls, DirectionButtons, WinModal, GameO
 CSS styling with Tailwind CSS for gradients, rounded corners, and responsive UI.
 
 Live Demo:https://game-2048-olive.vercel.app/
+
