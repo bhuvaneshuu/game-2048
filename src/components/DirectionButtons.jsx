@@ -15,7 +15,8 @@ const DirectionButtons = ({ onMove }) => {
         <button
           key={label}
           onClick={() => onMove(func)}
-          className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-3 rounded-lg font-semibold transition"
+          className="bg-gradient-to-r from-amber-400 to-yellow-500 hover:from-amber-500 hover:to-yellow-600 text-white px-4 py-3 rounded-lg font-semibold transition shadow-md hover:shadow-lg"
+
         >
           {label}
         </button>
