@@ -36,3 +36,6 @@ CSS styling with Tailwind CSS for gradients, rounded corners, and responsive UI.
 
 Live Demo:https://game-2048-olive.vercel.app/
 
+
+<img width="1909" height="1029" alt="Screenshot 2025-10-16 100321" src="https://github.com/user-attachments/assets/28acbf7f-98bb-4fe2-b1a6-e9645547c77a" />
+<img width="1919" height="1021" alt="Screenshot 2025-10-16 100547" src="https://github.com/user-attachments/assets/17715231-9741-4eaa-8755-864758e5b536" />
